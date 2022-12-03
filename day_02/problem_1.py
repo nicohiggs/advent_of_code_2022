@@ -1,4 +1,4 @@
-with open("C:\\Users\\nicoh\\advent_of_code\\day_02\\input.txt") as f:
+with open("C:\\Users\\nicoh\\advent_of_code_2022\\day_02\\input.txt") as f:
     lines = f.readlines()
 
 total_points = 0

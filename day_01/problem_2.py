@@ -1,4 +1,4 @@
-with open("C:\\Users\\nicoh\\advent_of_code\\day_01\\problem_2\\input.txt") as f:
+with open("C:\\Users\\nicoh\\advent_of_code_2022\\day_01\\input.txt") as f:
     lines = f.readlines()
 
 calories = []
